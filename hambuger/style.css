@@ -1,0 +1,17 @@
+.container,
+.container2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.container2 {
+    margin-top: 8px;
+}
+.item {
+    width: 180px;
+    height: 200px;
+    background-color: aquamarine;
+    text-align: center;
+}
